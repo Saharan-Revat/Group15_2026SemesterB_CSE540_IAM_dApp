@@ -1,0 +1,20 @@
+{
+  "name": "group15-iam-dapp",
+  "version": "0.1.0",
+  "description": "Decentralized Identity and Access Management dApp — CSE 540, Group 15",
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "test": "npx hardhat test",
+    "deploy:local": "npx hardhat run scripts/deploy.js --network hardhat",
+    "deploy:sepolia": "npx hardhat run scripts/deploy.js --network sepolia",
+    "deploy:mumbai": "npx hardhat run scripts/deploy.js --network mumbai",
+    "node": "npx hardhat node"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  },
+  "dependencies": {
+    "ethers": "^6.9.0"
+  }
+}
