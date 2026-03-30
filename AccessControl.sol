@@ -6,7 +6,7 @@ import "./CredentialStatus.sol";
 
 /**
  * @title AccessControl
- * @author Group 15 - CSE 540
+ * @author Group 15 - CSE 540 (Revat Saharan, Abhilakshay Sreehari, Satwik Mazumdar, Sreehari Krishna Sadesh, Shashank Valayaputtur)
  * @notice Governs role-based access management within the IAM dApp.
  *         Defines and enforces the three core stakeholder roles:
  *         Issuer, Verifier, and Holder (User/Subject).

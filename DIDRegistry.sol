@@ -3,7 +3,7 @@ pragma solidity ^0.8.20;
 
 /**
  * @title DIDRegistry
- * @author Group 15 - CSE 540
+ * @author Group 15 - CSE 540 (Revat Saharan, Abhilakshay Sreehari, Satwik Mazumdar, Sreehari Krishna Sadesh, Shashank Valayaputtur)
  * @notice Implements a W3C-compliant Decentralized Identifier (DID) registry on-chain.
  *         This contract anchors minimal DID metadata (public keys, service endpoints,
  *         and controller addresses) without ever storing raw PII on the ledger.

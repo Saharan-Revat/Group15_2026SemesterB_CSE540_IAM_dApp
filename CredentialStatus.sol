@@ -3,7 +3,7 @@ pragma solidity ^0.8.20;
 
 /**
  * @title CredentialStatus
- * @author Group 15 - CSE 540
+ * @author Group 15 - CSE 540 (Revat Saharan, Abhilakshay Sreehari, Satwik Mazumdar, Sreehari Krishna Sadesh, Shashank Valayaputtur)
  * @notice Manages the on-chain revocation and status registry for Verifiable Credentials (VCs).
  *         Uses a gas-efficient bitmap approach: each credential is assigned an index in a
  *         bitmap, and its revocation status is stored as a single bit flip.
