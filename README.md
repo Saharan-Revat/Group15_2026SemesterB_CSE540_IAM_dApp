@@ -181,7 +181,7 @@ This repository represents the **Smart Contract Design Draft** milestone. The cu
 | Name | Role |
 |---|---|
 | Revat Saharan | Lead Smart Contract Developer |
-| Abhilakshay Sreehari | Web3 & Frontend Developer |
+| Abhilakshay Singh Pathania | Web3 & Frontend Developer |
 | Satwik Mazumdar | Blockchain Analyst & QA |
 | Sreehari Krishna Sadesh | Decentralized Data Engineer |
 | Shashank Valayaputtur | Systems Integration & Testing |
