@@ -224,8 +224,6 @@ This repository now includes a **functional IAM core implementation** with test 
 | Sreehari Krishna Sadesh | Decentralized Data Engineer |
 | Shashank Valayaputtur | Systems Integration & Testing |
 
-**Submitter:** Satwik Mazumdar
-
 ---
 
 ## References
